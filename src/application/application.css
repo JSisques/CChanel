@@ -1,0 +1,25 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.background{
+	-fx-background-color: linear-gradient(#5290B3, #A8E0FF); 
+}
+
+.footer{
+	-fx-background-color: #FFB14E; 
+}
+
+.botones{
+	-fx-background-color: #FFB14E;
+	-fx-border-radius: 20px;
+}
+
+.botones:hover{
+	-fx-background-color: #A8E0FF;
+}
+
+.fondoImg {
+    -fx-background-image: url("../../img/navidad.jpg");
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+}
+

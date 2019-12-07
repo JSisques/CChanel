@@ -19,6 +19,10 @@ public class Controller {
 //		btnLive.setTooltip(tooltipLive);
 //	}
 	
+	/**
+	 * Metodo para cerrar la ventana
+	 */
+	
 	@FXML
 	public void die() {
 		//		System.exit(0);
@@ -26,6 +30,9 @@ public class Controller {
 		thisStage.close();
 	}
 	
+	/**
+	 * Metodo para iniciar la ventana
+	 */
 	@FXML	
 	public void live() {
 		VentanaImg vImg = new VentanaImg();

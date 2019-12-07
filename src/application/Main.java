@@ -6,7 +6,14 @@ import javafx.stage.Stage;
 import javafx.scene.Scene;
 import javafx.scene.layout.AnchorPane;
 
-
+/**
+ * 
+ * @author javi
+ * @version 1.0
+ * 
+ * Programa que mediante un botón genera una ventana con una imagen
+ *
+ */
 public class Main extends Application {
 		@Override
 		public void start(Stage primaryStage) {

@@ -1,2 +1,2 @@
-# JFX-Login
-![foto](https://github.com/JSisques/JFX-Login/blob/homePage/screenshot.png)
+# CChannel
+![foto](https://github.com/JSisques/CChanel/blob/master/cchanel.png)
